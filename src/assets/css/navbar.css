@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Open+Sans&display=swap');
+#navbar {
+  background-color: #8c52ff;
+  color: #fafafa;
+}
+
+#navbar-brand {
+  font-family: 'Caveat', cursive;
+  font-weight: bolder;
+}
+
+#brand-pony {
+  font-size: 2rem;
+  text-shadow: 0 0 3px #fafafa;
+}
+
+#brand-vet {
+  color: #ffd39a;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: #fafafa;
+}
